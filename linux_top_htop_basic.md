@@ -1,4 +1,4 @@
-# Cách sử dụng lệnh `top` và `htop` cơ bản
+# Cách sử dụng lệnh `top` và `htop` cơ bản | Created by AI
 
 ## 1. Lệnh `top`
 
