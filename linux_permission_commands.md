@@ -1,4 +1,4 @@
-# Tổng hợp các lệnh phân quyền cho tệp/thư mục trên Linux (đặc biệt theo group)
+# Tổng hợp các lệnh phân quyền cho tệp/thư mục trên Linux (đặc biệt theo group) | Created by AI
 
 ## 1. Xem quyền truy cập
 
