@@ -1,4 +1,4 @@
-# Tổng hợp cách sử dụng Vim cơ bản
+# Tổng hợp cách sử dụng Vim cơ bản | Created by AI
 
 ## 1. Mở và thoát Vim
 
