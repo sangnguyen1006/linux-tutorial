@@ -1,4 +1,4 @@
-# Tổng hợp lệnh `nohup` và ví dụ bash giả lập thực hiện tác vụ
+# Tổng hợp lệnh `nohup` và ví dụ bash giả lập thực hiện tác vụ | Created by AI
 
 ## 1. Tổng quan về `nohup`
 - `nohup` (No Hang Up) dùng để chạy một lệnh hoặc script mà không bị dừng lại khi đóng terminal hoặc thoát khỏi SSH.
