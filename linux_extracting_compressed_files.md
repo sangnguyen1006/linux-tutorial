@@ -1,4 +1,4 @@
-# Giải nén file nén trên Linux
+# Giải nén file nén trên Linux | Created by AI
 
 ## 1. Giải nén file `.gz`
 
